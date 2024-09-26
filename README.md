@@ -1,7 +1,7 @@
 # Calphad Optimizer Examples
 This is the repository where OPT example files for Calphad Optimizer are kept.
 
-OPT files are written in JSON format and follow the schema defined [here](https://github.com/GTT-Technologies/calphad-optimizer-schema)
+OPT files are written in JSON format and follow the schema defined in the [schema](https://github.com/GTT-Technologies/calphad-optimizer-schema) repo.
 
 The current release can be found on the right.
 
